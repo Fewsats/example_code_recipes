@@ -1,6 +1,6 @@
 # Cookbook for the Fewsats Platform
 
-At [Fewsats](fewsats.com) we believe that software unlocks a world of possibilities, and automation is the key that opens this door.Guided by this belief, we are committed to building a platform that simplifies software consumption for everyone: pogrammers, non-coders and even machines.
+At [Fewsats](fewsats.com) we believe that software unlocks a world of possibilities, and automation is the key that opens this door. Guided by this belief, we are committed to building a platform that simplifies software consumption for everyone: pogrammers, non-coders, and even machines.
 
 Our platform stands as a unique ecosystem where developers have the opportunity to upload, share, and monetize their code recipes – turning their coding expertise into a valuable asset. These recipes, encompassing a wide range of functionalities, are made available to users worldwide. They can effortlessly execute these programs, utilizing them for their specific needs.
 
@@ -8,7 +8,7 @@ This repository is designed to provide a comprehensive understanding our platfor
 
 ## How does it work
 
-As a developer your journey begins with what we call a 'code recipe'. A code recipe is a small program o script, crafted to perform specific function with a defined list of inputs and outputs.
+As a developer, your journey begins with what we call a 'code recipe.' A code recipe is a small program or script, crafted to perform a specific function within a defined list of inputs and outputs.
 
 You can upload as many code recipes as you desire.  Each uploaded recipe is assigned a unique, static URL. That URL is the gateway for users to trigger the execution of your code recipe. Every recipe undergoes a thorough review process to ensure its safe execution. This review checks for potential risks, even though all recipes run in a sandbox environment. Our goal is to prevent any exposure of user credentials or sensitive data through the inputs of your code recipe.
 
